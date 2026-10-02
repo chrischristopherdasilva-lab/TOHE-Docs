@@ -7,7 +7,8 @@ contributors: false
 # <font color=#f0b6d5>Troubleshooting</font>
 
 Are you having issues? You've come to the right place. This is the Troubleshooting page that will help you fix whatever issues you are having!<br>
-If your issue is not listed here, or nothing seems to work, join our [Discord](discord.gg/ten) and head to the `#mod-help` channel for further assistance!
+If your issue is not listed here, or nothing seems to work, join our [Discord](discord.njxs
+/ten) and head to the `#mod-help` channel for further assistance!
 
 <details>
 <summary><b><font color=gray>Could not connect to my Among Us account, why?</font></b></summary>
